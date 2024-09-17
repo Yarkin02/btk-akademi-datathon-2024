@@ -4,6 +4,6 @@ This repository contains the Preprocessing and Model notebooks that were develop
 
 + **[Model Notebook](https://github.com/Yarkin02/btk-akademi-datathon-2024/blob/main/btk-akademi-datathon-2024-model.ipynb)**
 
-#### ✨ Owners:
+#### ✨ Owner:
 
 [İsmail Yarkın Kavalcı](https://github.com/Yarkin02)
